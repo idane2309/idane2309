@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishan</h1>
 <h3 align="center">A passionate AI and web developer based in Seattle</h3>
-<img align="right" alt="Coding" width="500" style="margin-top:30px; margin-right:20px; margin-bottom:20px; margin-left:20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw4NG1vd2xpeHp5OXlnbnl1ZDRzaWlhZGN1cTU3emlydGRieGJlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
+<img align="right" alt="Coding" width="400" style="margin-top:30px; margin-right:20px; margin-bottom:20px; margin-left:20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw4NG1vd2xpeHp5OXlnbnl1ZDRzaWlhZGN1cTU3emlydGRieGJlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idane2309&label=Profile%20views&color=0e75b6&style=flat" alt="idane2309" /> </p>
